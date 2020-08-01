@@ -1,2 +1,2 @@
 # docker-adminer
-Docker image for adminer with additional mongodb support and a pretty default theme ;)
+Docker image for adminer with mongodb support and hydra as default theme ;)
